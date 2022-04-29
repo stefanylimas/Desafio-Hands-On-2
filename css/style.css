@@ -3,6 +3,10 @@ body{
     font-family: 'Questrial', sans-serif;
 }
 
+#form{
+    width: 100%;
+}
+
 .img-responsive {
     max-width: 100%;
 }
@@ -47,4 +51,8 @@ footer nav ul{
 
 footer nav ul li  {
     padding: 10px;
+}
+
+#admin-panel-modal-dialog{
+    max-width: 700px;
 }
